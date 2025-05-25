@@ -37,10 +37,10 @@ const char* serverName = "https://minidobi.onrender.com/status";
 #define HX711_SCK 5
 
 // LEDs
-#define LED1_PIN 2    // Also used by API response
+#define LED1_PIN 22    // Also used by API response
 #define LED2_PIN 12
 #define LED3_PIN 15
-#define LED4_PIN 22
+#define LED4_PIN 2
 
 // LDR Sensor
 #define LDR_PIN 35
